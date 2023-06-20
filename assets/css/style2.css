@@ -1,0 +1,45 @@
+body{
+    background-color:aqua;
+}
+.conatiner{
+    width:100vw;
+    height:100vh;
+}
+.cuadros{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+#cuadro1{
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+}
+#cuadro2{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+#cuadro3{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+#cuadro4{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+#mensaje{
+    size: 80;
+    color:black;
+}
+H3{
+    text-align: center;
+}
+#indi{
+    text-align: center;
+}
+#mensaje{
+    text-align: center;
+}
